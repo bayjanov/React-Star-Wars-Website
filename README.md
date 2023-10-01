@@ -84,24 +84,24 @@ To run the project locally, follow the "Getting Started" instructions below.
    git clone https://github.com/your-username/star-wars-web-app.git
 
 
-# Navigate to the project directory.
+### Navigate to the project directory.
 
 cd star-wars-web-app
 
 
-# Install project dependencies.
+### Install project dependencies.
 
 yarn install
 
 
-# Start the development server.
+### Start the development server.
 
 yarn run dev
 
 
-# Start the JSON server to provide data.
+### Start the JSON server to provide data.
 
 yarn run devServer
 
 
-# Open your web browser and access the app at http://localhost:3000.
+#### Open your web browser and access the app at http://localhost:3000.
