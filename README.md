@@ -86,22 +86,25 @@ To run the project locally, follow the "Getting Started" instructions below.
 
 ### Navigate to the project directory.
 
-cd star-wars-web-app
+  ```
+  cd star-wars-web-app
+  ```
 
 
 ### Install project dependencies.
-
-yarn install
+  ```
+   yarn install
+  ```
 
 
 ### Start the development server.
-
-yarn run dev
-
+  ```
+  yarn run dev
+  ```
 
 ### Start the JSON server to provide data.
+  ```
+  yarn run devServer
+  ```
 
-yarn run devServer
-
-
-#### Open your web browser and access the app at http://localhost:3000.
+#### Open your web browser and access the app at **http://localhost:3000**.
