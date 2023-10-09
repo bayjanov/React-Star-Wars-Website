@@ -5,7 +5,7 @@ const footerItems = ['Help', 'Contacts']
 const Footer = () => (
   <Box bg="#292929" color="white" px={'80px'} py={'20px'}>
     <Flex justifyContent="space-between" alignItems="center">
-      <Text color="#A6A6A6">© 2023 Javy</Text>
+      <Text color="#A6A6A6">© 2023 Copyright</Text>
       <UnorderedList display="flex" listStyleType="none">
         {footerItems.map((item) => (
           <ListItem key={item} marginLeft="24px">
